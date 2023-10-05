@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+:root {
+  --background-root: #020a1c;
+  --background-default: #0e1525;
+  --background-higher: #1c2333;
+  --background-highest: #3c445C;
+  --accent-primary-dimmest: #5f00a1;
+  --accent-primary-dimmer: #7a00cf;
+  --accent-primary-default: #9600ff;
+  --accent-primary-stronger: #cf8bff;
+  --accent-primary-strongest: #f6e9ff;
+}
+
+h1 {
+	font-family: 'Roboto Mono', monospace;
+}
+
+::-webkit-scrollbar-track {
+  border: 1px var(--outline-dimmest);
+  border-style: none none none solid;
+}
+
+::-webkit-scrollbar-thumb {
+  border-left: 1px solid var(--outline-dimmest);
+}
+
+.navbar {
+  position: sticky;
+  top: 0;
+}
+
+.navbar, .menu {
+  background-color: var(--background-default);
+}
+
+.hamburger {
+  border: none;
+}
+.hamburger:hover {
+  background-color: var(--background-higher);
+}
+
+.footer {
+  bottom: 0;
+  border-top: 1px solid var(--outline-dimmest);
+}
+
+@media (max-width: 800px) {
+  .menu {
+    margin-top: 15px;
+    border-top: 1px solid var(--outline-dimmest);
+    border-bottom: 1px solid var(--outline-dimmest);
+  }
+}
