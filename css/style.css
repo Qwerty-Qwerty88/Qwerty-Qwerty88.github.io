@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
-
 :root {
   --background-root: #020a1c;
   --background-default: #0e1525;
@@ -10,10 +8,6 @@
   --accent-primary-default: #9600ff;
   --accent-primary-stronger: #cf8bff;
   --accent-primary-strongest: #f6e9ff;
-}
-
-h1 {
-	font-family: 'Roboto Mono', monospace;
 }
 
 ::-webkit-scrollbar-track {
