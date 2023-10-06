@@ -10,8 +10,10 @@ This is my personal website/portfolio.
 
 Trying to get as many domains as I can. Currently have:
 - [qwerty.obl.ong](https://qwerty.obl.ong)
+- [qwerty88.obl.ong](https://qwerty88.obl.ong)
 - [qwertyqwerty.obl.ong](https://qwertyqwerty.obl.ong)
 - [qwertyqwerty88.obl.ong](https://qwertyqwerty88.obl.ong)
+- [qwerty-qwerty88.obl.ong](https://qwerty-qwerty88.obl.ong)
 - [qwerty-qwerty.obl.ong](https://qwerty-qwerty.obl.ong)
 - [qwerty-qwerty.w3spaces.com](https://qwerty-qwerty.w3spaces.com)
 - [qwerty-qwerty88.github.io](https://qwerty-qwerty88.github.io)
