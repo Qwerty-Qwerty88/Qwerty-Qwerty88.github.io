@@ -4,15 +4,16 @@
 
 This is my personal website/portfolio.
 
-* [See on Replit](https://replit.com/@QwertyQwerty88/QwertyQwerty88)
-* [See on GitHub](https://github.com/Qwerty-Qwerty88/Qwerty-Qwerty88.github.io)
+- [See on GitHub](https://github.com/Qwerty-Qwerty88/Qwerty-Qwerty88.github.io)
+- [See on Replit](https://replit.com/@QwertyQwerty88/QwertyQwerty88)
+- [See on Glitch](https://glitch.com/~qwertyqwerty88)
 
 Trying to get as many domains as I can. Currently have:
-- https://qwerty.obl.ong
-- https://qwertyqwerty.obl.ong
-- https://qwertyqwerty88.obl.ong
-- https://qwerty-qwerty.obl.ong
-- https://qwerty-qwerty.w3spaces.com
-- https://qwerty-qwerty88.github.io
-- https://qwertyqwerty88.repl.co
-- https://qwertyqwerty88.qwertyqwerty88.repl.co
+- [qwerty.obl.ong](https://qwerty.obl.ong)
+- [qwertyqwerty.obl.ong](https://qwertyqwerty.obl.ong)
+- [qwertyqwerty88.obl.ong](https://qwertyqwerty88.obl.ong)
+- [qwerty-qwerty.obl.ong](https://qwerty-qwerty.obl.ong)
+- [qwerty-qwerty.w3spaces.com](https://qwerty-qwerty.w3spaces.com)
+- [qwerty-qwerty88.github.io](https://qwerty-qwerty88.github.io)
+- [qwertyqwerty88.repl.co](https://qwertyqwerty88.repl.co)
+- [qwertyqwerty88.qwertyqwerty88.repl.co](https://qwertyqwerty88.qwertyqwerty88.repl.co)
