@@ -6,7 +6,6 @@ This is my personal website/portfolio.
 
 - [See on GitHub](https://github.com/Qwerty-Qwerty88/Qwerty-Qwerty88.github.io)
 - [See on Replit](https://replit.com/@QwertyQwerty88/QwertyQwerty88)
-- [See on Glitch](https://glitch.com/~qwertyqwerty88)
 
 Trying to get as many domains as I can. Currently have:
 - [qwerty.obl.ong](https://qwerty.obl.ong)
