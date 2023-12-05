@@ -7,7 +7,9 @@ This is my personal website/portfolio.
 - [See on GitHub](https://github.com/Qwerty-Qwerty88/Qwerty-Qwerty88.github.io)
 - [See on Replit](https://replit.com/@QwertyQwerty88/QwertyQwerty88)
 
-Trying to get as many domains as I can. Currently have:
+Trying to get as many subdomains as I can. Currently have:
+- [qwertyqwerty.pages.dev](https://qwertyqwerty.pages.dev)
+- [4b4231ae.qwertyqwerty.pages.dev](https://4b4231ae.qwertyqwerty.pages.dev)
 - [qwerty.obl.ong](https://qwerty.obl.ong)
 - [qwerty88.obl.ong](https://qwerty88.obl.ong)
 - [qwertyqwerty.obl.ong](https://qwertyqwerty.obl.ong)
