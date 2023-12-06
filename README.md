@@ -10,6 +10,7 @@ This is my personal website/portfolio.
 Trying to get as many subdomains as I can. Currently have:
 - [qwertyqwerty.pages.dev](https://qwertyqwerty.pages.dev)
 - [4b4231ae.qwertyqwerty.pages.dev](https://4b4231ae.qwertyqwerty.pages.dev)
+- [qwerty-skzlb.kinsta.page](https://qwerty-skzlb.kinsta.page)
 - [qwerty.obl.ong](https://qwerty.obl.ong)
 - [qwerty88.obl.ong](https://qwerty88.obl.ong)
 - [qwertyqwerty.obl.ong](https://qwertyqwerty.obl.ong)
