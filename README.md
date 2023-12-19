@@ -8,6 +8,8 @@ This is my personal website/portfolio.
 - [See on Replit](https://replit.com/@QwertyQwerty88/QwertyQwerty88)
 
 Trying to get as many subdomains as I can. Currently have:
+- [qwerty.is-a-fullstack.dev](https://qwerty.is-a-fullstack.dev)
+- [qwerty.is-a-backend.dev](https://qwerty.is-a-backend.dev)
 - [qwertyqwerty.pages.dev](https://qwertyqwerty.pages.dev)
 - [4b4231ae.qwertyqwerty.pages.dev](https://4b4231ae.qwertyqwerty.pages.dev)
 - [qwerty-skzlb.kinsta.page](https://qwerty-skzlb.kinsta.page)
