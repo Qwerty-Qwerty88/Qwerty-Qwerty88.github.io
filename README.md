@@ -20,6 +20,7 @@ Trying to get as many subdomains as I can. Currently have:
 - [qwerty-qwerty.w3spaces.com](https://qwerty-qwerty.w3spaces.com)
 - [qwerty-qwerty88.github.io](https://qwerty-qwerty88.github.io)
 - [qwertyqwerty88.glitch.me](https://qwertyqwerty88.glitch.me)
+- [qwertyqwerty88.replit.app](https://qwertyqwerty88.replit.app)
 - [qwertyqwerty88.repl.co](https://qwertyqwerty88.repl.co)
 - [qwertyqwerty88.qwertyqwerty88.repl.co](https://qwertyqwerty88.qwertyqwerty88.repl.co)
 - [qwertyqwerty88--qwertyqwerty88.repl.co](https://qwertyqwerty88--qwertyqwerty88.repl.co)
