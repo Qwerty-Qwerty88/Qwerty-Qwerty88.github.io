@@ -12,6 +12,7 @@ Trying to get as many subdomains as I can. Currently have:
 - [qwerty.is-a-good.dev](https://qwerty.is-a-good.dev)
 - [qwerty.is-a-fullstack.dev](https://qwerty.is-a-fullstack.dev)
 - [qwerty.is-a-backend.dev](https://qwerty.is-a-backend.dev)
+- [qwerty.is-cool.dev](https://qwerty.is-cool.dev)
 - [qwertyqwerty.pages.dev](https://qwertyqwerty.pages.dev)
 - [qwerty-skzlb.kinsta.page](https://qwerty-skzlb.kinsta.page)
 - [qwerty.obl.ong](https://qwerty.obl.ong)
