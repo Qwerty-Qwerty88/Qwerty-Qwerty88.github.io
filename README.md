@@ -30,4 +30,4 @@ Trying to get as many subdomains as I can. Currently have:
 - [qwertyqwerty88.qwertyqwerty88.repl.co](https://qwertyqwerty88.qwertyqwerty88.repl.co)
 - [qwertyqwerty88--qwertyqwerty88.repl.co](https://qwertyqwerty88--qwertyqwerty88.repl.co)
 - [ddd53049-7b77-4087-ad26-32b30bcd4a39.id.repl.co](https://ddd53049-7b77-4087-ad26-32b30bcd4a39.id.repl.co)
-- [ddd53049-7b77-4087-ad26-32b30bcd4a39-00-33x7r25b5alx0.hacker.replit.dev](https://ddd53049-7b77-4087-ad26-32b30bcd4a39-00-33x7r25b5alx0.hacker.replit.dev/) (only works when I'm editing it though)
+- [ddd53049-7b77-4087-ad26-32b30bcd4a39-00-33x7r25b5alx0.hacker.replit.dev](https://ddd53049-7b77-4087-ad26-32b30bcd4a39-00-33x7r25b5alx0.hacker.replit.dev/) (only works when my laptop is on though)

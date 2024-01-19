@@ -1,0 +1,12 @@
+img.link {
+  height: 50px;
+  width: 50px;
+  filter: grayscale(100%);
+  transition-duration: 300ms;
+}
+img.link.website, img.link.github {
+  filter: grayscale(100%) brightness(50%);
+}
+img.link:hover {
+  filter: grayscale(0%) brightness(100%);
+}
