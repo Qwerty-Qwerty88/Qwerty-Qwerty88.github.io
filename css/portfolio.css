@@ -4,7 +4,10 @@ img.link {
   filter: grayscale(100%);
   transition-duration: 300ms;
 }
-img.link.website, img.link.github {
+img.link.website {
+  filter: grayscale(100%) brightness(75%);
+}
+img.link.github {
   filter: grayscale(100%) brightness(50%);
 }
 img.link:hover {
