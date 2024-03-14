@@ -14,6 +14,7 @@ Trying to get as many subdomains as I can. Currently have:
 - [qwerty.is-cool.dev](https://qwerty.is-cool.dev)
 - [qwerty.localplayer.dev](https://qwerty.localplayer.dev)
 - [qwertyqwerty.pages.dev](https://qwertyqwerty.pages.dev)
+- [qwertyqwerty.vercel.app](https://qwertyqwerty.vercel.app)
 - [qwerty.thats-the.name](https://qwerty.thats-the.name)
 - [qwertyqwerty.thats-the.name](https://qwertyqwerty.thats-the.name)
 - [qwertyqwerty88.thats-the.name](https://qwertyqwerty88.thats-the.name)
